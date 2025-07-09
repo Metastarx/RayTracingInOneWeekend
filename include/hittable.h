@@ -6,10 +6,10 @@
 //记录碰撞点的信息
 class hit_record {
   public:
-    point3 p;
-    vec3 normal; //法线
-    double t; //射线在该点的t值
-    bool front_face;
+    point3 p; //该点的坐标
+    vec3 normal; //碰撞点的法线信息
+    double t; //射线在碰撞点的t值
+    bool front_face; //是否是碰撞的正面
 
     void set_face_normal(const ray& r,const vec3& outward_normal)
     {

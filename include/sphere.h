@@ -35,7 +35,6 @@ class sphere : public hittable {
         rec.set_face_normal(r,outward_normal);
 
 
-
         return true;
     }
 
