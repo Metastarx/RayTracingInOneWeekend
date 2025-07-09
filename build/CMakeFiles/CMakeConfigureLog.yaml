@@ -24,9 +24,9 @@ events:
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-      鐢熸垚鍚姩鏃堕棿涓?2025/6/21 15:42:58銆?
+      鐢熸垚鍚姩鏃堕棿涓?2025/6/21 17:10:09銆?
       
-      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\ProjectC++\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
+      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
         姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
         宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
@@ -39,7 +39,7 @@ events:
         CMakeCCompilerId.c
       Link:
         C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
-        CompilerIdC.vcxproj -> D:\\ProjectC++\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdC\\CompilerIdC.exe
+        CompilerIdC.vcxproj -> D:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdC\\CompilerIdC.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
         :VCEnd
@@ -47,13 +47,13 @@ events:
       FinalizeBuildStatus:
         姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濄€?
         姝ｅ湪瀵光€淒ebug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-      宸插畬鎴愮敓鎴愰」鐩€淒:\\ProjectC++\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+      宸插畬鎴愮敓鎴愰」鐩€淒:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
       
       宸叉垚鍔熺敓鎴愩€?
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:00.43
+      宸茬敤鏃堕棿 00:00:00.57
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -61,7 +61,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
       
       The C compiler identification is MSVC, found in:
-        D:/ProjectC++/build/CMakeFiles/3.26.0-rc2/CompilerIdC/CompilerIdC.exe
+        D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/3.26.0-rc2/CompilerIdC/CompilerIdC.exe
       
   -
     kind: "message-v1"
@@ -79,9 +79,9 @@ events:
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-      鐢熸垚鍚姩鏃堕棿涓?2025/6/21 15:42:59銆?
+      鐢熸垚鍚姩鏃堕棿涓?2025/6/21 17:10:09銆?
       
-      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\ProjectC++\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
+      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
         姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
         宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
@@ -94,7 +94,7 @@ events:
         CMakeCXXCompilerId.cpp
       Link:
         C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
-        CompilerIdCXX.vcxproj -> D:\\ProjectC++\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdCXX\\CompilerIdCXX.exe
+        CompilerIdCXX.vcxproj -> D:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdCXX\\CompilerIdCXX.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
         :VCEnd
@@ -102,13 +102,13 @@ events:
       FinalizeBuildStatus:
         姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濄€?
         姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-      宸插畬鎴愮敓鎴愰」鐩€淒:\\ProjectC++\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+      宸插畬鎴愮敓鎴愰」鐩€淒:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\3.26.0-rc2\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
       
       宸叉垚鍔熺敓鎴愩€?
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:00.42
+      宸茬敤鏃堕棿 00:00:00.43
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -116,7 +116,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
       
       The CXX compiler identification is MSVC, found in:
-        D:/ProjectC++/build/CMakeFiles/3.26.0-rc2/CompilerIdCXX/CompilerIdCXX.exe
+        D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/3.26.0-rc2/CompilerIdCXX/CompilerIdCXX.exe
       
   -
     kind: "try_compile-v1"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/ProjectC++/build/CMakeFiles/CMakeScratch/TryCompile-nkefql"
-      binary: "D:/ProjectC++/build/CMakeFiles/CMakeScratch/TryCompile-nkefql"
+      source: "D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/CMakeScratch/TryCompile-i8q583"
+      binary: "D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/CMakeScratch/TryCompile-i8q583"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -137,39 +137,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: D:/ProjectC++/build/CMakeFiles/CMakeScratch/TryCompile-nkefql
+        Change Dir: D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/CMakeScratch/TryCompile-i8q583
         
-        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_e3847.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-        鐢熸垚鍚姩鏃堕棿涓?2025/6/21 15:43:00銆?
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_4cb92.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
+        鐢熸垚鍚姩鏃堕棿涓?2025/6/21 17:10:10銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\ProjectC++\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkefql\\cmTC_e3847.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8q583\\cmTC_4cb92.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_e3847.dir\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_4cb92.dir\\Debug\\鈥濄€?
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淒:\\ProjectC++\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkefql\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_e3847.dir\\Debug\\cmTC_e3847.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8q583\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_4cb92.dir\\Debug\\cmTC_4cb92.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_e3847.dir\\Debug\\cmTC_e3847.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_e3847.dir\\Debug\\cmTC_e3847.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_4cb92.dir\\Debug\\cmTC_4cb92.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_4cb92.dir\\Debug\\cmTC_4cb92.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e3847.dir\\Debug\\\\" /Fd"cmTC_e3847.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\Cmake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4cb92.dir\\Debug\\\\" /Fd"cmTC_4cb92.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\Cmake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
           鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.42.34435 鐗?
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e3847.dir\\Debug\\\\" /Fd"cmTC_e3847.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\Cmake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4cb92.dir\\Debug\\\\" /Fd"cmTC_4cb92.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\Cmake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\ProjectC++\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkefql\\Debug\\cmTC_e3847.exe" /INCREMENTAL /ILK:"cmTC_e3847.dir\\Debug\\cmTC_e3847.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/ProjectC++/build/CMakeFiles/CMakeScratch/TryCompile-nkefql/Debug/cmTC_e3847.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/ProjectC++/build/CMakeFiles/CMakeScratch/TryCompile-nkefql/Debug/cmTC_e3847.lib" /MACHINE:X64  /machine:x64 cmTC_e3847.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_e3847.vcxproj -> D:\\ProjectC++\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkefql\\Debug\\cmTC_e3847.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8q583\\Debug\\cmTC_4cb92.exe" /INCREMENTAL /ILK:"cmTC_4cb92.dir\\Debug\\cmTC_4cb92.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/CMakeScratch/TryCompile-i8q583/Debug/cmTC_4cb92.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/CMakeScratch/TryCompile-i8q583/Debug/cmTC_4cb92.lib" /MACHINE:X64  /machine:x64 cmTC_4cb92.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_4cb92.vcxproj -> D:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8q583\\Debug\\cmTC_4cb92.exe
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_e3847.dir\\Debug\\cmTC_e3847.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_e3847.dir\\Debug\\cmTC_e3847.tlog\\cmTC_e3847.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淒:\\ProjectC++\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkefql\\cmTC_e3847.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_4cb92.dir\\Debug\\cmTC_4cb92.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_4cb92.dir\\Debug\\cmTC_4cb92.tlog\\cmTC_4cb92.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8q583\\cmTC_4cb92.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:00.41
+        宸茬敤鏃堕棿 00:00:00.43
         
       exitCode: 0
   -
@@ -181,8 +181,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/ProjectC++/build/CMakeFiles/CMakeScratch/TryCompile-mxvrzn"
-      binary: "D:/ProjectC++/build/CMakeFiles/CMakeScratch/TryCompile-mxvrzn"
+      source: "D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/CMakeScratch/TryCompile-gzjsvm"
+      binary: "D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/CMakeScratch/TryCompile-gzjsvm"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -191,39 +191,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: D:/ProjectC++/build/CMakeFiles/CMakeScratch/TryCompile-mxvrzn
+        Change Dir: D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/CMakeScratch/TryCompile-gzjsvm
         
-        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_0c7d9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-        鐢熸垚鍚姩鏃堕棿涓?2025/6/21 15:43:00銆?
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_2d597.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
+        鐢熸垚鍚姩鏃堕棿涓?2025/6/21 17:10:10銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\ProjectC++\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mxvrzn\\cmTC_0c7d9.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gzjsvm\\cmTC_2d597.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_0c7d9.dir\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_2d597.dir\\Debug\\鈥濄€?
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淒:\\ProjectC++\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mxvrzn\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_0c7d9.dir\\Debug\\cmTC_0c7d9.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gzjsvm\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_2d597.dir\\Debug\\cmTC_2d597.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_0c7d9.dir\\Debug\\cmTC_0c7d9.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_0c7d9.dir\\Debug\\cmTC_0c7d9.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_2d597.dir\\Debug\\cmTC_2d597.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_2d597.dir\\Debug\\cmTC_2d597.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0c7d9.dir\\Debug\\\\" /Fd"cmTC_0c7d9.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\Cmake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2d597.dir\\Debug\\\\" /Fd"cmTC_2d597.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\Cmake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
           鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.42.34435 鐗?
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0c7d9.dir\\Debug\\\\" /Fd"cmTC_0c7d9.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\Cmake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2d597.dir\\Debug\\\\" /Fd"cmTC_2d597.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\Cmake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\ProjectC++\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mxvrzn\\Debug\\cmTC_0c7d9.exe" /INCREMENTAL /ILK:"cmTC_0c7d9.dir\\Debug\\cmTC_0c7d9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/ProjectC++/build/CMakeFiles/CMakeScratch/TryCompile-mxvrzn/Debug/cmTC_0c7d9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/ProjectC++/build/CMakeFiles/CMakeScratch/TryCompile-mxvrzn/Debug/cmTC_0c7d9.lib" /MACHINE:X64  /machine:x64 cmTC_0c7d9.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_0c7d9.vcxproj -> D:\\ProjectC++\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mxvrzn\\Debug\\cmTC_0c7d9.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gzjsvm\\Debug\\cmTC_2d597.exe" /INCREMENTAL /ILK:"cmTC_2d597.dir\\Debug\\cmTC_2d597.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/CMakeScratch/TryCompile-gzjsvm/Debug/cmTC_2d597.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/CMakeScratch/TryCompile-gzjsvm/Debug/cmTC_2d597.lib" /MACHINE:X64  /machine:x64 cmTC_2d597.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_2d597.vcxproj -> D:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gzjsvm\\Debug\\cmTC_2d597.exe
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_0c7d9.dir\\Debug\\cmTC_0c7d9.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_0c7d9.dir\\Debug\\cmTC_0c7d9.tlog\\cmTC_0c7d9.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淒:\\ProjectC++\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mxvrzn\\cmTC_0c7d9.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_2d597.dir\\Debug\\cmTC_2d597.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_2d597.dir\\Debug\\cmTC_2d597.tlog\\cmTC_2d597.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\ProjectC++\\RayTracingInOneWeekend\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gzjsvm\\cmTC_2d597.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:00.42
+        宸茬敤鏃堕棿 00:00:00.43
         
       exitCode: 0
 ...

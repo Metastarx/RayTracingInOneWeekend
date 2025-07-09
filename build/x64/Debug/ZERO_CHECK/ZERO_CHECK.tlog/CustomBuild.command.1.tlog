@@ -1,6 +1,6 @@
-^D:\PROJECTC++\BUILD\CMAKEFILES\952691B6EEF420B6D5176CC46C4A4F5F\GENERATE.STAMP.RULE
+^D:\PROJECTC++\RAYTRACINGINONEWEEKEND\BUILD\CMAKEFILES\D500BAA9960E2E24489AF7C811974857\GENERATE.STAMP.RULE
 setlocal
-D:\Cmake\bin\cmake.exe -SD:/ProjectC++ -BD:/ProjectC++/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ProjectC++/build/MyProject.sln
+D:\Cmake\bin\cmake.exe -SD:/ProjectC++/RayTracingInOneWeekend -BD:/ProjectC++/RayTracingInOneWeekend/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ProjectC++/RayTracingInOneWeekend/build/MyProject.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

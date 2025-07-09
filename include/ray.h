@@ -1,5 +1,5 @@
 #ifndef RAY_H
-#define RAT_H
+#define RAY_H
 
 #include "vec3.h"
 

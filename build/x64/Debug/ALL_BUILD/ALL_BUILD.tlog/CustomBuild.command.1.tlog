@@ -1,6 +1,6 @@
-^D:\PROJECTC++\CMAKELISTS.TXT
+^D:\PROJECTC++\RAYTRACINGINONEWEEKEND\CMAKELISTS.TXT
 setlocal
-D:\Cmake\bin\cmake.exe -SD:/ProjectC++ -BD:/ProjectC++/build --check-stamp-file D:/ProjectC++/build/CMakeFiles/generate.stamp
+D:\Cmake\bin\cmake.exe -SD:/ProjectC++/RayTracingInOneWeekend -BD:/ProjectC++/RayTracingInOneWeekend/build --check-stamp-file D:/ProjectC++/RayTracingInOneWeekend/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\ProjectC++\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>D:\ProjectC++\RayTracingInOneWeekend\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\ProjectC++\build\Debug\MyExecutable.exe</FullPath>
+      <FullPath>D:\ProjectC++\RayTracingInOneWeekend\build\Debug\MyExecutable.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
